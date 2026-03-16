@@ -1,4 +1,4 @@
-# 📊 Excel Sales Analysis using Microsoft Excel
+# 📊 Sales Analysis using Microsoft Excel
 
 ## 📌 Project Overview
 This project was completed as part of a **Data Technician Bootcamp** and focuses on analysing retail and product sales datasets using **Microsoft Excel**.
