@@ -1,35 +1,93 @@
-# 📊 Excel Retail & Sales Analysis Project
+# 📊 Excel Sales Analysis using Microsoft Excel
 
-## 📌 Overview
-This project was completed during a **Data Technician Bootcamp** and focuses on analysing retail and sales datasets using **Microsoft Excel**. The aim was to explore sales performance, customer demographics, and product trends by applying core spreadsheet analysis techniques.
+## 📌 Project Overview
+This project was completed as part of a **Data Technician Bootcamp** and focuses on analysing retail and product sales datasets using **Microsoft Excel**.
 
-## 🧠 Skills Demonstrated
-- Excel formulas and functions: `SUM`, `SUMIF`, `AVERAGE`, `AVERAGEIF`
-- Date functions: `DATE`, `MONTH`, `YEAR`
-- Lookup and data extraction: `VLOOKUP`, `UNIQUE`
-- Logical functions: `SWITCH`
-- Data filtering and sorting
-- Creating **PivotTables** to summarise large datasets
-- Building **charts and visualisations** to communicate insights
+The goal of the project was to explore sales performance, identify customer purchasing trends, and summarise product demand across different regions. Excel tools such as formulas, PivotTables, filtering, and charts were used to transform raw data into meaningful insights.
 
-## 📂 Key Tasks
-- Analysed retail and product sales datasets
-- Calculated totals, averages, and conditional metrics using formulas
-- Created PivotTables to analyse sales by **country, age group, gender, and product**
-- Categorised product sales performance using the `SWITCH` function
-- Developed charts to visualise sales trends and patterns
+## 🎯 Project Objectives
+
+The objectives of this project were to:
+✔ Analyse retail sales data to identify patterns and trends  
+✔ Calculate key metrics such as totals and averages  
+✔ Categorise product sales using logical Excel functions  
+✔ Summarise large datasets using PivotTables  
+✔ Present insights through charts and data visualisations  
+
+## 📂 Dataset
+The dataset includes information about:
+- 🛍 Product categories  
+- 📈 Sales volume  
+- 🌍 Regions and markets  
+- 👥 Customer demographics  
+- 💰 Commission and sales performance  
+This data was used to analyse **product demand, customer behaviour, and regional performance**.
+
+## 🧠 Excel Skills Applied
+### 🔢 Excel Functions
+The following Excel formulas were used in the analysis:
+
+- `SUM`
+- `SUMIF`
+- `AVERAGE`
+- `AVERAGEIF`
+- `DATE`
+- `MONTH`
+- `YEAR`
+- `UNIQUE`
+- `VLOOKUP`
+- `SWITCH`
+
+Example formula used to categorise product sales:
+=SWITCH(TRUE, C2>600,"High", C2>=300,"Medium","Low")
+
+### 📊 Data Analysis Techniques
+
+- Filtering datasets to focus on specific segments
+- Sorting values from largest to smallest
+- Creating PivotTables to summarise large datasets
+- Comparing product performance across regions
+- Analysing customer demographics
+
+## 📊 Data Analysis Process
+### 1️⃣ Data Exploration
+The dataset was explored using **sorting and filtering** to identify patterns and understand the structure of the data.
+
+### 2️⃣ Data Calculations
+Excel formulas were applied to calculate:
+- Total commissions
+- Average sales values
+- Conditional metrics using `SUMIF` and `AVERAGEIF`
+
+### 3️⃣ PivotTable Analysis
+PivotTables were used to summarise and analyse data across multiple dimensions such as:
+- Country
+- Age group
+- Gender
+- Product category
+- County
+
+### 4️⃣ Data Visualisation
+Charts and PivotCharts were created to visualise sales trends and customer behaviour.
 
 ## 🔍 Key Insights
-- Adult customers (35–64) represented a major purchasing demographic
-- Female adult customers contributed strongly to overall sales
-- Youth customers showed the lowest sales activity across markets
-- PivotTable analysis helped identify top-performing regions and product categories
+Some key insights discovered during the analysis:
+📌 Adult customers (35–64) represent a strong purchasing demographic  
+📌 Female adult customers contribute significantly to overall sales  
+📌 Youth customers generate the lowest sales across markets  
+📌 Certain regions show higher demand for specific products  
 
 ## 🛠 Tools Used
-- Microsoft Excel
-- PivotTables & PivotCharts
-- Excel formulas and functions
-- Data filtering and sorting
+- 📊 Microsoft Excel
+- 📈 PivotTables & PivotCharts
+- 🔢 Excel formulas and functions
+- 🔍 Data filtering and sorting
+- 📉 Charts and visualisations
 
-## 🎯 Outcome
-This project strengthened my ability to work with structured datasets, apply Excel analytical techniques, and present insights using visualisations and summary tables.
+## 📈 Conclusion
+This project demonstrates how **Microsoft Excel can be used as a powerful data analysis tool** to explore retail datasets and generate actionable insights.
+Through this project I developed skills in:
+- Data exploration
+- Excel formulas and functions
+- PivotTable analysis
+- Data visualisation
