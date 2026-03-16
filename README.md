@@ -8,6 +8,7 @@ The goal of the project was to explore sales performance, identify customer purc
 ## 🎯 Project Objectives
 
 The objectives of this project were to:
+
 ✔ Analyse retail sales data to identify patterns and trends  
 ✔ Calculate key metrics such as totals and averages  
 ✔ Categorise product sales using logical Excel functions  
