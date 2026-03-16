@@ -73,6 +73,7 @@ Charts and PivotCharts were created to visualise sales trends and customer behav
 
 ## 🔍 Key Insights
 Some key insights discovered during the analysis:
+
 📌 Adult customers (35–64) represent a strong purchasing demographic  
 📌 Female adult customers contribute significantly to overall sales  
 📌 Youth customers generate the lowest sales across markets  
