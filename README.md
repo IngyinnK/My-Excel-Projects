@@ -48,9 +48,9 @@ The following Excel formulas were used in the analysis:
 Example formula used to categorise product sales:
 =SWITCH(TRUE, C2>600,"High", C2>=300,"Medium","Low")
 
-<img width="691" height="269" alt="image" src="https://github.com/user-attachments/assets/71b78553-add4-46fa-916d-ee29692f2def" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/71b78553-add4-46fa-916d-ee29692f2def" />
 
-<img width="691" height="323" alt="image" src="https://github.com/user-attachments/assets/27a3818e-bfe5-455d-88d3-c3594e46651f" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/27a3818e-bfe5-455d-88d3-c3594e46651f" />
 
 ---
 
@@ -82,19 +82,19 @@ PivotTables were used to summarise and analyse data across multiple dimensions s
 - Product category
 - County
 
-<img width="691" height="195" alt="image" src="https://github.com/user-attachments/assets/0b649d1f-7482-4994-b6b0-387dc69892cd" />
+<img width="600" height="270" alt="image" src="https://github.com/user-attachments/assets/0b649d1f-7482-4994-b6b0-387dc69892cd" />
 
 ### 4️⃣ Data Visualisation
 Charts and PivotCharts were created to visualise sales trends and customer behaviour.
-<img width="691" height="414" alt="image" src="https://github.com/user-attachments/assets/5789a05b-fdb5-4443-8aa5-235f270c4423" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/5789a05b-fdb5-4443-8aa5-235f270c4423" />
 
 ---
 
-<img width="691" height="411" alt="image" src="https://github.com/user-attachments/assets/60773388-be45-4245-acb3-3e5434ebc502" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/60773388-be45-4245-acb3-3e5434ebc502" />
 
 ---
 
-<img width="691" height="416" alt="image" src="https://github.com/user-attachments/assets/2efe160a-f41d-4e57-aeac-7593e53f783f" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/2efe160a-f41d-4e57-aeac-7593e53f783f" />
 
 ---
 
@@ -106,11 +106,11 @@ Some key insights discovered during the analysis:
 📌 Youth customers generate the lowest sales across markets  
 📌 Certain regions show higher demand for specific products  
 
-<img width="1404" height="579" alt="image" src="https://github.com/user-attachments/assets/e9c3e505-76fc-4aa7-b6d9-9edacf0053bd" />
+<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/e9c3e505-76fc-4aa7-b6d9-9edacf0053bd" />
 
 ---
 
-<img width="590" height="518" alt="image" src="https://github.com/user-attachments/assets/f8248af6-3bb4-4431-a353-c1b253f1569b" />
+<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/f8248af6-3bb4-4431-a353-c1b253f1569b" />
 
 --- 
 
