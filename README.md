@@ -110,7 +110,8 @@ Some key insights discovered during the analysis:
 
 ---
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f8248af6-3bb4-4431-a353-c1b253f1569b" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/388d1c9e-117e-49b7-a072-6ee7033f6f46" />
+/>
 
 --- 
 
