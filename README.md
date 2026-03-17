@@ -106,11 +106,11 @@ Some key insights discovered during the analysis:
 📌 Youth customers generate the lowest sales across markets  
 📌 Certain regions show higher demand for specific products  
 
-<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/e9c3e505-76fc-4aa7-b6d9-9edacf0053bd" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/f22091d3-3c10-4896-a57d-9bb982bfc874" />
 
 ---
 
-<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/f8248af6-3bb4-4431-a353-c1b253f1569b" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f8248af6-3bb4-4431-a353-c1b253f1569b" />
 
 --- 
 
